@@ -26,9 +26,9 @@ The project idea is based on the *PUBG Cheater Detection* proposal in the Machin
 
 ## Dataset
 
-**Dataset:** To be selected / confirmed.
+**Dataset:** 
 
-The dataset source, size, feature descriptions, target definition, and license will be documented here after the team finalizes the dataset.
+https://data.mendeley.com/datasets/bx3y8ktrsf/1
 
 ## Project Workflow
 
